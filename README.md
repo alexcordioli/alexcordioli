@@ -107,11 +107,7 @@ alt="cordioliesp" height="30" width="40"/>
 </a>
 </p>
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=alexcordioli&show_icons=true&locale=pt-br&layout=compact"
-alt="alexcordioli"/>
-</p>
+ 
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcordioli&show_icons=true&locale=pt-br"
