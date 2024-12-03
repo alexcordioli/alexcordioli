@@ -78,7 +78,7 @@ alt="bootstrap" width="40" height="40"/>
 </a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/>
 </a>
 
 
