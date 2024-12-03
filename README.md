@@ -7,7 +7,7 @@ alt="alexcordioli"/>
 </p>
 
 ### Minhas conquistas no GitHub 🏆
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=alexcordioli&theme=gruvbox)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=alexcordioli&theme=darkhub)
 
  
 
