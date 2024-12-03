@@ -93,6 +93,10 @@ alt="bootstrap" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/>
 </a>
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>
+</a>
+
 
 
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
