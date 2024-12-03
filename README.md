@@ -73,7 +73,7 @@ alt="javascript" width="40" height="40"/>
 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
 alt="bootstrap" width="40" height="40"/>
 </a>
 
