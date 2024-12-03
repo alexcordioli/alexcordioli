@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, meu nome é Alex Cordioli</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+<h1 align="center">Olá 👋, meu nome é Alex Cordioli</h1> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcordioli&label=Profile%20views&color=0e75b6&style=flat" alt="alexcordioli" /> </p>
 
