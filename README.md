@@ -24,6 +24,12 @@ width="40" height="40"/>
 width="60" height="40"/>
 </a>
 
+<a href="https://www.php.net" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lumen/lumen-original.svg" alt="php"
+width="60" height="40"/>
+</a>
+
+
 
 
 
