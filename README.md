@@ -6,11 +6,15 @@
 alt="alexcordioli"/>
 </p>
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=alexcordioli" alt="alexcordioli"/>
-</a>
-</p>
+### Minhas conquistas no GitHub 🏆
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=alexcordioli&theme=gruvbox)
+
+**Legenda:**
+- Starred: Repositórios mais estrelados
+- Forked: Repositórios mais copiados
+- Commits: Número total de commits
+- Issues: Contribuições em issues
+- Pull Requests: Contribuições em pull requests
 
 
 <h3 align="left">Back-end:</h3>
