@@ -112,6 +112,9 @@ width="40" height="40"/>
 </a>
 
 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" alt="git" width="40" height="40"/>
+</a>
 
 
 
