@@ -21,7 +21,7 @@ alt="alexcordioli"/>
 width="40" height="40"/>
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="40"/>
+<img src="https://laravel.com/img/logotype.min.svg" alt="laravel" width="40" height="40" style="margin-left: 10px"/>
 </a>
 </p>
 
