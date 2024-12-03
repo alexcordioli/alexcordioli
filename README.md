@@ -9,13 +9,7 @@ alt="alexcordioli"/>
 ### Minhas conquistas no GitHub 🏆
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=alexcordioli&theme=gruvbox)
 
-**Legenda:**
-- Starred: Repositórios mais estrelados
-- Forked: Repositórios mais copiados
-- Commits: Número total de commits
-- Issues: Contribuições em issues
-- Pull Requests: Contribuições em pull requests
-
+ 
 
 <h3 align="left">Back-end:</h3>
 
