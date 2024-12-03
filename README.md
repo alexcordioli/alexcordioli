@@ -19,9 +19,14 @@ alt="alexcordioli"/>
 width="40" height="40"/>
 </a>
 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-<img src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="40" height="40" style="margin-left: 10px"/>
+<a href="https://www.php.net" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" alt="php"
+width="40" height="40"/>
 </a>
+
+
+
+
 </p>
 
 
