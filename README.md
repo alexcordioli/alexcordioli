@@ -21,7 +21,7 @@ width="40" height="40"/>
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line-wordmark.svg" alt="php"
-width="60" height="60"/>
+width="60" height="40"/>
 </a>
 
 
