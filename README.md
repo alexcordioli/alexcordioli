@@ -5,10 +5,6 @@
 <img src="https://komarev.com/ghpvc/?username=alexcordioli&label=Profile%20views&color=0e75b6&style=flat"
 alt="alexcordioli"/>
 </p>
-
-### Minhas conquistas no GitHub 🏆
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=alexcordioli&theme=darkhub)
-
  
 
 <h3 align="left">Back-end:</h3>
