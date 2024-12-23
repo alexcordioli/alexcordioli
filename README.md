@@ -129,12 +129,3 @@ alt="cordioliesp" height="30" width="40"/>
 </p>
 
  
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcordioli&show_icons=true&locale=pt-br"
-alt="alexcordioli"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcordioli&locale=pt-br" alt="alexcordioli"/>
-</p>
