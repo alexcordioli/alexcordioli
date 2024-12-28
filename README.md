@@ -5,7 +5,6 @@
 alt="alexcordioli"/>
 </p>
  
-
 <h3 align="left">Back-end:</h3>
 
 <p align="left">
