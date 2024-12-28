@@ -109,7 +109,6 @@ width="40" height="40"/>
 
 </p>
 
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/cordioliesp" target="_blank">
@@ -118,5 +117,3 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 alt="cordioliesp" height="30" width="40"/>
 </a>
 </p>
-
- 
